@@ -400,6 +400,9 @@ Thanks to our main contributors
 * [VK Parser](http://vkparser.ru) - A tool to search for a target audience and potential customers.
 * [VK People Search](http://vk.com/people)
 * [VK to RSS Appspot](http://vk-to-rss.appspot.com)
+* [220vk](https://220vk.com)
+* [findclone](https://findclone.ru)
+* [VKS](https://github.com/V1A0/VKS)
 
 ### [↑](#contents) Tumblr
 
